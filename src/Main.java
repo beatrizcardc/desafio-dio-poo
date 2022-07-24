@@ -60,9 +60,5 @@ public class Main {
         System.out.println("Conteúdos concluídos Isaac: " + devIsaac.getConteudosConcluidos());
         System.out.println("XP: " + devIsaac.calcularTotalXp());
 
-
-
-
-
     }
 }
